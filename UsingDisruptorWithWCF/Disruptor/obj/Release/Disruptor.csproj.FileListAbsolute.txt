@@ -1,0 +1,5 @@
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Target\Bin\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Target\Bin\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Release\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Release\Disruptor.pdb

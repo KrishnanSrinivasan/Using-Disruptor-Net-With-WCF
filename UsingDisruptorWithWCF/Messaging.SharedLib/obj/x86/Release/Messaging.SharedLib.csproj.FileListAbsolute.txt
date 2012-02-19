@@ -1,0 +1,5 @@
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.SharedLib\bin\Release\Messaging.SharedLib.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.SharedLib\bin\Release\Messaging.SharedLib.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.SharedLib\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.SharedLib\obj\x86\Release\Messaging.SharedLib.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.SharedLib\obj\x86\Release\Messaging.SharedLib.pdb

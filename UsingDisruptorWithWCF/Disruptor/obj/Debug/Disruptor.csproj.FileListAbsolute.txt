@@ -1,0 +1,15 @@
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor-source-1.0.0.0\Target\Bin\Disruptor.dll
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor-source-1.0.0.0\Target\Bin\Disruptor.pdb
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\Disruptor.dll
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\Disruptor.pdb
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor\Disruptor-source-1.0.0.0\Target\Bin\Disruptor.dll
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor\Disruptor-source-1.0.0.0\Target\Bin\Disruptor.pdb
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\Disruptor.dll
+D:\Krishnan\Work\Documents.StudyMaterial\OpenSourceFX.Zipped\Disruptor\Disruptor-source-1.0.0.0\Disruptor\obj\Debug\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Target\Bin\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Target\Bin\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Debug\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Disruptor\obj\Debug\Disruptor.pdb

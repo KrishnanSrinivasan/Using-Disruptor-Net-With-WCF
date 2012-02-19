@@ -1,0 +1,6 @@
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\bin\Release\MessageQueue.Host.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\bin\Release\MessageQueue.Host.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\MessageQueue.Host.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\MessageQueue.Host.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\bin\Release\MessageQueue.Host.exe.config

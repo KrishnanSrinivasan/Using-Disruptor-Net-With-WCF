@@ -1,0 +1,15 @@
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\bin\Release\Messaging.Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\bin\Release\Messaging.Consumer.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\Messaging.Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\MessageQueue.Host\obj\x86\Release\Messaging.Consumer.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Messaging.Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Messaging.Consumer.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Messaging.SharedLib.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Disruptor.xml
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\bin\Release\Messaging.SharedLib.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\obj\x86\Release\Messaging.Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\Messaging.Consumer\obj\x86\Release\Messaging.Consumer.pdb

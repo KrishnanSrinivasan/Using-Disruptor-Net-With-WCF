@@ -1,0 +1,8 @@
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\bin\Release\NDisruptorTryIT.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\bin\Release\NDisruptorTryIT.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\bin\Release\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\bin\Release\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\bin\Release\Disruptor.xml
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\obj\x86\Release\NDisruptorTryIT.exe
+D:\Krishnan\Work\Projects\Disruptor\NDisruptor\NDisruptorTryIT\obj\x86\Release\NDisruptorTryIT.pdb
