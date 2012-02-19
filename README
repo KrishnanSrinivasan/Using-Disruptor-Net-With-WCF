@@ -1,0 +1,7 @@
+This is a sample project on how the LMAX Disruptor (.NET Ported Version 1.0) can be using with WCF.
+
+The Project is created in .NET Framework 4.0 and needs Microsoft VS2010.
+
+The Solution has 4 projects. The Disruptor, a Producer (WCF Client Console App) and a Consumner (WCF Service Console App) and a shared project with utility and shared classes. 
+
+The Consumer should be started before the Producer.
